@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+
+# Variáveis de ambiente
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Banco SQLite antigo
+*.db
+
+# Git
+.git/
